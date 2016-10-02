@@ -1,0 +1,5 @@
+elems:
+
+  - src:  (bootchart\.conf)$
+    dst:  /etc/systemd/<1>
+    only: f?systemd && f?bootchart
