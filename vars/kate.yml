@@ -1,8 +1,4 @@
-# => inherits: generic <= #
-
-
-features:
-  - bootchart
+# => inherits: generic, with-bootchart <= #
 
 
 # vim: set filetype=eruby.yaml :
